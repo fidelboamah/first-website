@@ -1,0 +1,282 @@
+@font-face {
+    font-family: 'montserrat-medium', 'montserrat-light';
+    src: url('../Graphics/Fonts/montserrat-medium-webfont.woff') format("woff");
+    src: url('../Graphics/Fonts/montserrat-medium-webfont.woff2') format("woff2");
+    src: url('../Graphics/Fonts/Montserrat-ExtraLight.woff') format("woff");
+    font-weight: normal;
+ }
+
+ html {
+     font-size: 100%
+ }
+
+ body {
+     font-family: "montserrat-medium", "montserrat-light", sans-serif;
+     background-color: white;
+
+ }
+
+ h1 {
+    font-size: 3rem;
+    text-align: center;
+ }
+
+ h2 {
+     font-size: 1.5rem;
+     text-align: center;
+     margin-bottom: 0;
+ }
+
+#student {
+    font-family: "montserrat-light", sans-serif, monospace;
+    text-align: center;
+    margin-top: 0rem;
+    font-size: 0.75rem;
+ }
+
+p {
+    font-family: "montserrat-light", sans-serif, monospace;
+ }
+
+a {
+     text-decoration: none;
+ }
+
+header {
+     background-color: #F4D9C3;
+ }
+
+.container {
+    background-color: #F4D9C3;
+    margin: 0 10rem;
+    padding-top: 2rem;
+    z-index: 30;
+ }
+
+main {
+     background-color: #ffff;
+ }
+
+.bitmoji-logo {
+     margin: 10rem auto;
+ }
+.con {
+    background-color: white;
+    height: 415px;
+}
+ img.bitlogo {
+    margin: 0;
+    width: 25%;
+    z-index: 50;
+    position: absolute;
+    left: 38%;
+    top: 40px;
+}
+
+.fill {
+    height: 277.56px;
+    width: 414px;
+    background-color: #F4D9C3;
+height: 85px;
+width: 94px;
+}
+
+
+
+h3#new-menu-button {
+    margin: 0 2rem;
+    z-index: 70;
+    position: absolute;
+    left: 35%;
+    top: 370px;
+}
+
+.holit {
+    background-color: #F4D9C3;
+    color:#1A1A1A;
+ }
+
+ .holiit {
+    background-color: #F4D9C3;
+    color:#1A1A1A;
+    position: relative;
+ }
+
+.light {
+    background-color: #ffff;
+ }
+
+.work {
+    text-align: center;
+ }
+
+ figure.wideimg {
+    width: 100%;
+    margin: 0 auto;
+ }
+
+ .svg {
+    width: 100%;
+    margin: 0 auto;
+ }
+
+ #portext {
+    padding: 1.5rem 3.5rem 1.5rem 3.5rem;
+    text-align: center;
+ }
+ 
+ figcaption {
+    text-align: center;
+ }
+ 
+div.col{
+    margin: 0 auto;
+}
+
+.textcol {
+    font-size: 1.5rem;
+    padding: 4rem 4rem 0 4rem;
+    margin-bottom: 2rem;
+    text-align: left;
+ }
+
+figure.ex {
+    margin: 0 auto 2rem auto;
+    padding: 0 7rem;
+}
+
+#money img {
+    margin: 0 auto 2rem auto;
+    padding: 0 7rem;
+    width: 50%;
+}
+
+#money p {
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 1rem;
+    
+}
+
+#biga {
+    width: 100%
+}
+
+.text{
+    padding: 1.5rem 3.5rem 1.5rem 1.5rem;
+}
+
+img.line{
+    width: 100%;
+}
+
+img.bg {
+    width: 100%;
+    position: absolute;
+    left; 0px;
+    top: 0px;
+    z-index: 20;
+}
+
+.bit{
+    width: 50%; 
+    padding-top: 3rem;
+    position: relative;
+    left: 25%;
+}
+
+.bits {
+    width: 50%; 
+    position: relative;
+    left: 25%;
+}
+
+.me {
+    width: 100%; 
+}
+
+.logo {
+    width: 100%;
+}
+
+.brag {
+    font-size: 1.5rem;
+    padding: 4rem 4rem 0 4rem;
+    margin-top: 0rem;
+    margin-bottom: 4rem;
+}
+
+ #menu-button {
+    color: white;
+    background-color: #1a1a1a;
+    padding: 0.5rem 0;
+    text-align: center;
+    border-radius: 18px;
+    font-size: 0.75rem;
+ }
+
+ #button a {
+     text-decoration: none;
+     color: white;
+     font-size: 75%;
+ }
+
+ #button {
+    text-decoration: none;
+    color: #1a1a1a;
+    display: block;
+    background-color: green;
+    padding: 1rem 0;
+    text-align: center;
+    border-radius: 30px;
+    margin: 0 4rem 6rem 4rem;
+ }
+
+ #menu li {
+    list-style-type: none;
+ }
+
+ #menu li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    background-color: #1A1A1A;
+    padding: 1rem 0;
+    text-align: center;
+    border-radius: 18px;
+    margin: 1rem 2rem;
+  }
+
+  #menu-front li a {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    display: block;
+    padding: 0.5rem 0;
+    text-align: center;
+    border-radius: 18px;
+  } 
+
+li {
+        list-style-type: none;
+        margin: 1.4rem 0;
+        font-size: 70%;
+
+  }
+
+li #list {
+    margin: 0.5rem 0;
+}
+
+ #copyright {
+     color: white;
+ }
+
+ footer.dark {
+    background-color: #1A1A1A;
+    padding: 2rem 0;
+    text-align: center;
+    clear: both;
+ }
